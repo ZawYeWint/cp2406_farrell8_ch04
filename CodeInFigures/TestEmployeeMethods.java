@@ -2,7 +2,7 @@ public class TestEmployeeMethods
 {
    public static void main(String[] args)
    {
-      Employee aWorker = new Employee();
+      Ch4Employee aWorker = new Ch4Employee();
       aWorker.setValues();
       aWorker.methodThatUsesInstanceAttributes();
       aWorker.methodThatUsesLocalVariables();
